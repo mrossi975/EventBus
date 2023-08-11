@@ -1,0 +1,33 @@
+Started reading doc
+    15:58
+
+SimpleEventBus implementation finished at 16:44
+
+SimpleEventBus test finished at 17:00
+
+ConcurrentEventBus implementation finished at 18:47
+
+ConcurrentEventBus test + fixed implementation finished at 19:55
+    TOTAL SimpleEventBus + ConcurrentEventBus time = about 4 hours
+
+Throttler finished at 21:25 (no test yet)
+
+
+Started again at 10:44
+tests for SlidingWindowStatisticsImpl
+fixed SimpleEventBus to support interface/superclass subscription
+stopped at 11:30
+
+started at 12:10
+
+stopped at 13:20
+
+started at 14:10
+
+throttler finally working at 14:48 (TOTAL THROTTLER TIME = about 2 hours)
+
+
+
+
+
+
